@@ -1,0 +1,11 @@
+numpy>=1.26
+pandas>=2.0
+scipy
+scikit-learn>=1.3
+statsmodels
+ta-lib>=0.6.5
+numba
+joblib
+jupyter
+matplotlib
+seaborn
