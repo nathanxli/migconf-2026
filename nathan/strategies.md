@@ -14,9 +14,26 @@ Also can model one stock relative to a small basket using regression residuals, 
 4. Regression
 Just dump everything in a regression model and make sure to do dimensionality reduction to avoid overfitting
 
+Features:
+- lagged returns
+- rolling volatility
+- moving average gaps
+- distance from recent highs / lows
+- volume changes
+- cross stock lagged returns or market average returns
+
 5. Volatility & Volume based strategies
 I don't know too much here.
 
 6. Regime-filtered
 Detect market regime from the cross-section or average index-like basket trend/volatility. 
 Then switch between momentum and mean-reversion behavior.
+
+
+
+# Checks
+- return correlations between strategies
+- risk adjusted performance
+- regime behavior
+- capacity & concentration each strategy puts into individual stocks
+
