@@ -36,4 +36,3 @@ Then switch between momentum and mean-reversion behavior.
 - risk adjusted performance
 - regime behavior
 - capacity & concentration each strategy puts into individual stocks
-
